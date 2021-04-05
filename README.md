@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @DeadlyDwarf
-- 👀 I’m interested in Larning Python
-- 🌱 I’m currently learning Python in My school
-- 💞️ I’m looking to collaborate on N/A
-- 📫 How to reach me ... N/A
+- 👀 I’m Learning python for a class in school
+
 
 <!---
 DeadlyDwarf/DeadlyDwarf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
