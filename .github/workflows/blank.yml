@@ -1,0 +1,18 @@
+# Write Program to calculate the area of rectangle: area = length * width
+# Read length and width of rectangle
+#then display the area value
+
+
+# read length
+length = input("Enter the length: ")
+length = int(length) #converts text (string) to an integer
+
+# read width
+width = input("enter the width : ")
+width = float(width) # converts the value from starting type to decimal type
+
+#calculate area: area = length * width
+area = length * width
+
+#print "This is your area: ", area
+print("This is your area: " , format(area, )
