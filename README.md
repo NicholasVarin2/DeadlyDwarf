@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @DeadlyDwarf
-- 👀 I’m Learning python for a class in school
 
 
 <!---
