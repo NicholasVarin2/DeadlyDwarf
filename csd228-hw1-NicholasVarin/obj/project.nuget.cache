@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "U5KUn21HaSqM6YfWx2bRAlVeUMZtXIelshLj6qDMiYiX0dnMtb4K+UH/Wzm53846vOfHVTczmJX37zrHrtCrXg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nicholas2\\Desktop\\C#2.0\\csd228-hw1-NicholasVarin\\Homework.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nicholas2\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.2\\microsoft.netcore.app.ref.7.0.2.nupkg.sha512",
+    "C:\\Users\\Nicholas2\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.2\\microsoft.windowsdesktop.app.ref.7.0.2.nupkg.sha512",
+    "C:\\Users\\Nicholas2\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.2\\microsoft.aspnetcore.app.ref.7.0.2.nupkg.sha512",
+    "C:\\Users\\Nicholas2\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.2\\microsoft.netcore.app.host.win-x64.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

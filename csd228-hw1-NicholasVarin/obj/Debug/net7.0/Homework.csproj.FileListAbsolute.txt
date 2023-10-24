@@ -1,0 +1,15 @@
+C:\Users\Nicholas2\Desktop\C#2.0\csd228-hw1-NicholasVarin\bin\Debug\net7.0\Homework.exe
+C:\Users\Nicholas2\Desktop\C#2.0\csd228-hw1-NicholasVarin\bin\Debug\net7.0\Homework.deps.json
+C:\Users\Nicholas2\Desktop\C#2.0\csd228-hw1-NicholasVarin\bin\Debug\net7.0\Homework.runtimeconfig.json
+C:\Users\Nicholas2\Desktop\C#2.0\csd228-hw1-NicholasVarin\bin\Debug\net7.0\Homework.dll
+C:\Users\Nicholas2\Desktop\C#2.0\csd228-hw1-NicholasVarin\bin\Debug\net7.0\Homework.pdb
+C:\Users\Nicholas2\Desktop\C#2.0\csd228-hw1-NicholasVarin\obj\Debug\net7.0\Homework.csproj.AssemblyReference.cache
+C:\Users\Nicholas2\Desktop\C#2.0\csd228-hw1-NicholasVarin\obj\Debug\net7.0\Homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicholas2\Desktop\C#2.0\csd228-hw1-NicholasVarin\obj\Debug\net7.0\Homework.AssemblyInfoInputs.cache
+C:\Users\Nicholas2\Desktop\C#2.0\csd228-hw1-NicholasVarin\obj\Debug\net7.0\Homework.AssemblyInfo.cs
+C:\Users\Nicholas2\Desktop\C#2.0\csd228-hw1-NicholasVarin\obj\Debug\net7.0\Homework.csproj.CoreCompileInputs.cache
+C:\Users\Nicholas2\Desktop\C#2.0\csd228-hw1-NicholasVarin\obj\Debug\net7.0\Homework.dll
+C:\Users\Nicholas2\Desktop\C#2.0\csd228-hw1-NicholasVarin\obj\Debug\net7.0\refint\Homework.dll
+C:\Users\Nicholas2\Desktop\C#2.0\csd228-hw1-NicholasVarin\obj\Debug\net7.0\Homework.pdb
+C:\Users\Nicholas2\Desktop\C#2.0\csd228-hw1-NicholasVarin\obj\Debug\net7.0\Homework.genruntimeconfig.cache
+C:\Users\Nicholas2\Desktop\C#2.0\csd228-hw1-NicholasVarin\obj\Debug\net7.0\ref\Homework.dll
